@@ -63,7 +63,7 @@ function checkAnswers() {
     <strong>${feedbackMsg}</strong>
   `;
 
-  // document.getElementById("results").innerHTML = resultHTML;
+ 
   document.getElementById("retryBtn").style.display = "inline-block";
 
   alreadySubmitted = true;
